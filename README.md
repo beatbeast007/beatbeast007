@@ -108,15 +108,6 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-![Snake animation](https://github.com/beatbeast007/beatbeast007/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 💀 HACKER WISDOM
 
