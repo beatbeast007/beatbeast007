@@ -80,7 +80,7 @@ When I'm not **exploiting vulnerabilities** or conducting **penetration testing*
 ![Maltego](https://img.shields.io/badge/Maltego-1F8C89?style=for-the-badge&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-FF6B00?style=for-the-badge&logoColor=white) ![TheHarvester](https://img.shields.io/badge/TheHarvester-008B8B?style=for-the-badge&logoColor=white) ![Recon-ng](https://img.shields.io/badge/Recon_ng-4682B4?style=for-the-badge&logoColor=white) ![FOCA](https://img.shields.io/badge/FOCA-FF1493?style=for-the-badge&logoColor=white) ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-228B22?style=for-the-badge&logoColor=white)
 ---
 
-## 📊 THREAT INTELLIGENCE DASHBOARD
+## 📊 INTELLIGENCE DASHBOARD
 
 <div align="center">
 
@@ -135,18 +135,7 @@ When I'm not **exploiting vulnerabilities** or conducting **penetration testing*
 current_research:
   - "AI-Powered Penetration Testing Automation"
   - "Zero-Day Discovery in IoT Devices"
-  - "Advanced Persistent Threat Detection"
-  - "Quantum-Resistant Cryptography Implementation"
 
-latest_cves:
-  - "CVE-2024-XXXX: Critical RCE in Popular Framework"
-  - "CVE-2024-YYYY: Privilege Escalation Vulnerability"
-
-bug_bounties:
-  - platform: "HackerOne"
-    status: "Hall of Fame"
-  - platform: "Bugcrowd"
-    status: "Active Hunter"
 ```
 
 ---
@@ -177,12 +166,12 @@ bug_bounties:
 
 <div align="center">
 
-| Platform | Rank | Points | Status |
-|----------|------|--------|--------|
-| 🚩 TryHackMe | Top 1% | 15,000+ | 🔴 Active |
-| 🏴‍☠️ HackTheBox | Elite Hacker | 12,500+ | 🟢 Online |
-| 🎯 PicoCTF | Hall of Fame | 8,900+ | 🟡 Veteran |
-| ⚡ OverTheWire | Completed | All Levels | ✅ Master |
+| Platform |
+|----------|
+| 🚩 TryHackMe | Top 3% | 
+| 🏴‍☠️ HackTheBox |
+| 🎯 PicoCTF |
+| ⚡ OverTheWire |
 
 </div>
 
@@ -192,14 +181,12 @@ bug_bounties:
 
 ```bash
 ┌─[root@security-nexus]─[/home/contact]
-└──╼ # gpg --armor --export beatbeast007@protonmail.com
+└──╼ # gpg --armor --export beatbeast07@protonmail.com
 ```
 
 <div align="center">
 
-**🔒 PGP KEY ID:** `0x1A2B3C4D5E6F7890`  
-**🛡️ SIGNAL:** `beatbeast.01`  
-**📧 SECURE MAIL:** `beatbeast007@protonmail.com`
+**📧 SECURE MAIL:** `beatbeast07@protonmail.com`
 
 *For security research collaboration and responsible disclosure only*
 
