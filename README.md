@@ -40,7 +40,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 <div align="center">
 
 
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31cn6qzl7biqgjq6wd7ws7qi42si)
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/cryqzzb8qpve5noiqsggqnj2a)
 
 
 </div>
