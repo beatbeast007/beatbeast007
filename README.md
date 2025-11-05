@@ -35,18 +35,13 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 
 ---
 
-## 🎵 CURRENTLY JAMMING ON YT MUSIC
+## 🎵 CURRENTLY JAMMING
 
 <div align="center">
 
-![YT Music](https://img.shields.io/badge/YTMusic-%23FF0000.svg?style=for-the-badge&logo=youtube-music&logoColor=white)
 
-<!-- YT Music Now Playing Widget - Replace with your actual widget URL -->
-<a href="https://github.com/iXenonN/YouTube-Music-Profile">
-  <img src="https://ytmusic-github-profile.vercel.app/api/now-playing" alt="YT Music Now Playing" width="400" />
-</a>
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/31cn6qzl7biqgjq6wd7ws7qi42si)
 
-*🎧 Powered by YT Music API - Real-time updates*
 
 </div>
 
