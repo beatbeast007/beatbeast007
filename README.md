@@ -19,7 +19,11 @@
 
 > *"In a world of locked doors, the man with the key is king. But the man who can pick any lock? He rules the kingdom."*
 
-When I'm not **exploiting vulnerabilities** or conducting **penetration testing**, you'll find me pumping iron at the gym 💪, vibing to electronic music 🎵, or strategizing the next **red team engagement**. Currently exploring the nexus of **AI-powered security**, **zero-day research**, and **advanced persistent threats**.
+When I'm not **exploiting vulnerabilities** or conducting **penetration testing**, When the code compiles and the vulns are patched, you'll catch me:
+🏋️ Lifting heavy in the gym—because strong mind, strong body, strong exploits.
+🎧 Vibing to EDM—fuel for late-night debugging sessions.
+🐈 Chilling with my cat—the ultimate undercover operative
+Or strategizing the next **red team engagement**. Currently exploring the nexus of **AI-powered security**, **zero-day research**, and **advanced persistent threats**.
 
 ### 🏆 ACHIEVEMENTS UNLOCKED
 ```diff
