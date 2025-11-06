@@ -62,6 +62,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 ---
 
 <details><summary><h2> 🛡️ SECURITY ARSENAL </h2></summary>
+  
 ### 🔪 Penetration Testing & Red Team Tools 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white) ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logoColor=white) ![Empire](https://img.shields.io/badge/Empire-800080?style=for-the-badge&logoColor=white) ![Responder](https://img.shields.io/badge/Responder-FFD700?style=for-the-badge&logoColor=black) ![Hashcat](https://img.shields.io/badge/Hashcat-000080?style=for-the-badge&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-DC143C?style=for-the-badge&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-FF4500?style=for-the-badge&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-32CD32?style=for-the-badge&logoColor=black) ![Gobuster](https://img.shields.io/badge/Gobuster-4169E1?style=for-the-badge&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF6347?style=for-the-badge&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack_ng-9370DB?style=for-the-badge&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-1F8C89?style=for-the-badge&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=white) ![Volatility](https://img.shields.io/badge/Volatility-FF6B00?style=for-the-badge&logoColor=white) ![TheHarvester](https://img.shields.io/badge/TheHarvester-008B8B?style=for-the-badge&logoColor=white) ![Recon-ng](https://img.shields.io/badge/Recon_ng-4682B4?style=for-the-badge&logoColor=white) ![FOCA](https://img.shields.io/badge/FOCA-FF1493?style=for-the-badge&logoColor=white) ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-228B22?style=for-the-badge&logoColor=white) ![Amass](https://img.shields.io/badge/Amass-DC143C?style=for-the-badge&logoColor=white) ![Subfinder](https://img.shields.io/badge/Subfinder-FF8C00?style=for-the-badge&logoColor=white) ![FFUF](https://img.shields.io/badge/FFUF-8A2BE2?style=for-the-badge&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-00FF7F?style=for-the-badge&logoColor=black) ![Masscan](https://img.shields.io/badge/Masscan-FF69B4?style=for-the-badge&logoColor=white) ![Rustscan](https://img.shields.io/badge/Rustscan-000000?style=for-the-badge&logo=rust&logoColor=white) ![Dirbuster](https://img.shields.io/badge/Dirbuster-8B4513?style=for-the-badge&logoColor=white) ![Wfuzz](https://img.shields.io/badge/Wfuzz-FF6347?style=for-the-badge&logoColor=white) ![Searchsploit](https://img.shields.io/badge/Searchsploit-696969?style=for-the-badge&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-8B0000?style=for-the-badge&logoColor=white)
@@ -81,7 +82,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 ### 🖥️ OPERATING SYSTEMS & PLATFORMS 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-00B4AB?style=for-the-badge&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 
---- </details>
+</details>
 
 <details><summary><h2> 📊 STATISTICS </h2></summary>
 
@@ -118,7 +119,9 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 
 </div>
 
---- </details>
+--- 
+
+</details>
 
 
 ## 💀 HACKER WISDOM
