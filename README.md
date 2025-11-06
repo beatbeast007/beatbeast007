@@ -32,8 +32,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 + 🔬 Published Research: Quantum Cryptography (IRJMETS)
 + 🚩 CTF Player | Bug Bounty Hunter | OSINT Specialist
 ```
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 ## 🎵 CURRENTLY JAMMING
 
@@ -45,7 +44,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 ## 🌐 SECURE CONNECTIONS
 
@@ -58,10 +57,10 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/beatbeast007)
 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
----
-
-<details><summary><h2> 🛡️ SECURITY ARSENAL </h2></summary>
+<details>
+<summary><h2 align="center"> 🛡️ SECURITY ARSENAL </h2></summary>
   
 ### 🔪 Penetration Testing & Red Team Tools 
 
@@ -83,6 +82,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-00B4AB?style=for-the-badge&logoColor=white) ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) 
 
 </details>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 <details><summary><h2> 📊 STATISTICS </h2></summary>
 
@@ -120,7 +120,7 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 </div>
 
 </details>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
 ## 💀 HACKER WISDOM
 
