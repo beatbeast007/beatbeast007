@@ -119,8 +119,6 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 
 </div>
 
---- 
-
 </details>
 
 
