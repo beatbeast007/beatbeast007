@@ -32,17 +32,6 @@ Or strategizing the next **red team engagement**. Currently exploring the nexus 
 + 🔬 Published Research: Quantum Cryptography (IRJMETS)
 + 🚩 CTF Player | Bug Bounty Hunter | OSINT Specialist
 ```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
-
-## 🎵 CURRENTLY JAMMING
-
-<div align="center">
-
-
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/cryqzzb8qpve5noiqsggqnj2a)
-
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
 
